@@ -1,0 +1,16 @@
+{
+  "@@locale": "es",
+
+  "helloWorld": "Hola Mundo!",
+
+  "hello": "Hola {userName}",
+  "@hello": {
+    "placeholders": {
+      "userName": {
+        "type": "String",
+        "example": "Mundo"
+      }
+    }
+  }
+
+}
